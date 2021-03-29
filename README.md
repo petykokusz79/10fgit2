@@ -6,3 +6,7 @@ blablabla
 Ez is egy h1
 ===============
 **példa** arra, hogy a `felhőben` hozunk létre repository-t
+
+```cs
+string s = "szöveg";
+```
