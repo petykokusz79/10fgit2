@@ -10,3 +10,7 @@ Ez is egy h1
 ```cs
 string s = "szöveg";
 ```
+
+kéne egy dőlt betűs izé is
+-------------
+hello *world*
